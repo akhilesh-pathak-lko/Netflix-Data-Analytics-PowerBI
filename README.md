@@ -24,4 +24,4 @@ been deteriorating or improving?
 5. On average, how has the runtime changed over the last 50 years? 
 6. How does age certification of a movie affect its rating?
 
-[Dashboard Screenshot](https://github.com/akhilesh-pathak-lko/Netflix-Data-Analytics-PowerBI/blob/main/Dashboard%20Screenshot.png)
+![Dashboard Screenshot](https://github.com/akhilesh-pathak-lko/Netflix-Data-Analytics-PowerBI/blob/main/Dashboard%20Screenshot.png)
