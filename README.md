@@ -1,13 +1,6 @@
 # Netflix-Data-Analytics-PowerBI
 A Power BI dashboard created using the Netflix dataset to analyze content trends, genres, release year patterns, and platform insights. Includes data cleaning, modeling, and visualizations.
 
-##  About This Repository
-
-- Practice dashboards and reports created during my learning.
-- Cleaned datasets used for visualizations.
-- DAX measures and calculations I used in different reports.
-- Notes and important concepts I learned during the course.
-
 ## Dataset Used
 
 [View Dataset](https://github.com/akhilesh-pathak-lko/Netflix-Data-Analytics-PowerBI/blob/main/Netflix%20Dataset.xlsx)
